@@ -1,3 +1,6 @@
 streamlit
 pymupdf
 json5
+google-genai
+openpyxl>=3.1.5
+pandas>=2.3.1
